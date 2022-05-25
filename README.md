@@ -1,4 +1,4 @@
-![image-20220520031655864](D:\반출검토요청서\나그네\code\nagune\발표자료\나그네 로고.png)
+![나그네 로고](https://user-images.githubusercontent.com/87061261/170175793-b89febb5-f662-4127-ab3b-215cedcf5457.png)
 
 ## 나그네(나만의 그래피티 네트워크)
 
