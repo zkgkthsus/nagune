@@ -16,7 +16,7 @@ AR환경으로 구현된 낙서(그래피티)플렛폼
   * DB : Firebase firestore
   * storage : Firebase storage
   * Auth : Firebase authentication
-  * 배포 : Google Play Store
+  * 배포 : Google Play Store(준비중)
   * 추가 Asset : ARLocation, Go map, EasyPaint
 
 ## 프로젝트 설치 APK
